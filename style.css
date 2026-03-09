@@ -1,0 +1,30 @@
+body{
+background: linear-gradient(120deg,#ff9a9e,#fad0c4);
+font-family: Arial;
+text-align:center;
+color:white;
+height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+}
+
+.container{
+background: rgba(0,0,0,0.2);
+padding:40px;
+border-radius:20px;
+}
+
+button{
+padding:15px 30px;
+font-size:18px;
+border:none;
+border-radius:10px;
+background:white;
+color:#ff4b5c;
+cursor:pointer;
+}
+
+.hidden{
+display:none;
+}
